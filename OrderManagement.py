@@ -6,7 +6,7 @@ conn = mysql.connector.connect(
   host="localhost",
   user="root",
   password="",
-  database="DN_Name"
+  database="DB_Name"
 )
 
 # Create the main window
